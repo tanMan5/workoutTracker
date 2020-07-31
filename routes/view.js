@@ -9,5 +9,9 @@ router.get("/exercise", (req, res) => {
 
 // need to create one for stats...
 
+router.get("/stats", (req, res) => {
+    res.sendfile(path.join(__dirname, "../public/stats.html"));
+});
+
 
 module.exports = router;
