@@ -43,12 +43,15 @@ They are also able to view their past workouts in a graph form.
 ```
 
 ## Example
-
+Main
 ![main](assets/main.gif)
 
+Adding Exercise
 ![add exercise](assets/addExercise.gif)
 
+Completed
 ![completed](assets/completed.gif)
 
+Graph
 ![graph](assets/graph.gif)
 
