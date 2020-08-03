@@ -44,11 +44,11 @@ They are also able to view their past workouts in a graph form.
 
 ## Example
 
-![Main](public/assets/images/main.gif)
+![main](assets/main.gif)
 
-![Add Exercise](public/assets/images/addExercise.gif)
+![add exercise](assets/addExercise.gif)
 
-![Completed Exercise](public/assets/images/completed.gif)
+![completed](assets/completed.gif)
 
-![Graph](public/assets/images/graph.gif)
+![graph](assets/graph.gif)
 
